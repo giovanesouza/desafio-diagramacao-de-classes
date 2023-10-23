@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Bytecode
+*.jar
+
+# Build directories
+/target/
+/bin/
+/out/
+
+# IDE-specific files and directories
+/.idea/
+/.project
+/.classpath
+/.settings/
+
+# Log files
+*.log
+
+# Package files
+*.war
+*.ear
+
+# Maven-specific files and directories
+/target/
+mvnw
+.mvn/
+
+# Gradle-specific files and directories
+/.gradle/
+build/
